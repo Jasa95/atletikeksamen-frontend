@@ -19,6 +19,11 @@ export default function Navbar() {
             Disciplines
           </NavLink>
         </li>
+        <li>
+          <NavLink to="/results" className="text-white text-lg hover:text-gray-300">
+            Results
+          </NavLink>
+        </li>
       </ul>
     </nav>
   );
