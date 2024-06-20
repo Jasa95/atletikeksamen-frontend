@@ -3,8 +3,7 @@
 export default function HomePage() {
     return (
         <div>
-        <h1>Home</h1>
-        <p>Here you can insert your content</p>
+        <h1>Atletik Eksamen</h1>
         </div>
     );
     }

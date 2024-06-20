@@ -1,6 +1,6 @@
 # Project Title
 
-This is a brief description of your project.
+Dette eksamensprojekt bygger på en full stack web applikation til håndtering af deltagere og deres resultater til et fiktivt atletikstævne
 
 ## Getting Started
 
